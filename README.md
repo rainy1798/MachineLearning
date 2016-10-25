@@ -1,15 +1,16 @@
 #MachineLearning[主页](https://github.com/rainyxx/MachineLearning.git)
 ==========================================
+##导论
 ##第一章：常见机器学习算法的实现代码
 * 降维<br>
     * PCA
     
-    * ICA
+    * KPCA
     
 * 聚类<br>
-      * kNN
+      * k-means
       
-      * kNN2
+      * 学习向量量化
 * 线性回归<br>
       * 普通线性回归
       
@@ -19,13 +20,16 @@
       
       * 多变量决策树
 * 神经网络<br>
-      * CNN
+      * CNN
 * 支持向量机<br>
       * SVM
-      
-      * SVR
+      * SVR
 * 贝叶斯<br>
       * 朴素贝叶斯
-      * 半朴素贝叶斯
-      * 贝叶斯网
-* 
+      
+      * 半朴素贝叶斯
+      
+      * 贝叶斯网
+* 集成学习<br>
+      * Boosting
+      * Bagging&RF
