@@ -1,6 +1,6 @@
 #MachineLearning[主页](https://github.com/rainyxx/MachineLearning.git)
 ==========================================
-#####快速：-----[常见代码？](#Common code)----[学习理论？](#Learning theory)----[半监督学习？](#Semi - supervised learning)----[强化学习？](#Intensive learning)----[论文？](#paper)----[随笔?](#Essay)####
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)####
 
 <a name="Common code"></a>
 ##第一章：常见机器学习算法的实现代码##
