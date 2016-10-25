@@ -7,7 +7,7 @@
 
 
 * 降维<br>
-    * PCA
+    * [PCA](MachineLearning/Dimensionality-reduction/pca.py)
     
     * KPCA
     
