@@ -62,7 +62,11 @@
 <a name="paper"></a>
 ##第五章：论文##
 #####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
+
+
 ----------------------------------------------
 <a name="Essay"></a>
 ##第六章：随笔##
 #####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
+
+
