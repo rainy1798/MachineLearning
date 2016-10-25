@@ -1,9 +1,9 @@
 #MachineLearning[主页](https://github.com/rainyxx/MachineLearning.git)
 ==========================================
-
+------------------------------------------
 <a name="Common code"></a>
 ##第一章：常见机器学习算法的实现代码##
-#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>####
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
 
 
 * 降维<br>
@@ -40,31 +40,27 @@
 * 其他<br>
       * kNN
       * EM
-      
+----------------------------------------------
 <a name="Learning theory"></a>      
 ##第二章：计算学习理论##
-####快速：[常见代码？](#Common code)||[学习理论？](#Learning theory)||[半监督学习？]()||[强化学习？]()||[论文？]()||[随笔?]()###
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
 
 
-
-
-
-
-
-
-
+----------------------------------------------
 <a name="Semi - supervised learning"></a>
 ##第三章：半监督学习##
-####快速：[常见代码？](#Common code)||[学习理论？](#Learning theory)||[半监督学习？]()||[强化学习？]()||[论文？]()||[随笔?]()###
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
 
+
+----------------------------------------------
 <a name="Intensive learning"></a>
 ##第四章：强化学习##
-####快速：[常见代码？](#Common code)||[学习理论？](#Learning theory)||[半监督学习？]()||[强化学习？]()||[论文？]()||[随笔?]()###
-
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
+---------------------------------------------
 <a name="paper"></a>
 ##第五章：论文##
-####快速：[常见代码？](#Common code)||[学习理论？](#Learning theory)||[半监督学习？]()||[强化学习？]()||[论文？]()||[随笔?]()###
-
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
+----------------------------------------------
 <a name="Essay"></a>
 ##第六章：随笔##
-####快速：[常见代码？](#Common code)||[学习理论？](#Learning theory)||[半监督学习？]()||[强化学习？]()||[论文？]()||[随笔?]()###
+#####页内快速导航：[常见代码？](#Common code)[学习理论？](#Learning theory)[半监督学习？](#Semi - supervised learning)[强化学习？](#Intensive learning)[论文？](#paper)[随笔?](#Essay)<br><br>#####
